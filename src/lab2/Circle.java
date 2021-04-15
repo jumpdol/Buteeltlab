@@ -8,7 +8,7 @@ public class Circle {
 	double radius;
 	MyMap circleHash = new MyMap();
 	static Scanner in = new Scanner(System.in);
-
+	//comment
 	public Circle(double radius) {
 		this.radius = radius;
 	}
